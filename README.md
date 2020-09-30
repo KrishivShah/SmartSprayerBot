@@ -1,2 +1,2 @@
 # Line-Follower
-A lie follower which employs Infra-red sensors
+A line follower which employs Infra-red sensors
